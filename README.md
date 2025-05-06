@@ -1,13 +1,15 @@
 ## Hi there
 
+I am beginner at programming and try to develop my first videogame in LUA with the Love2D framework.
+
 <details>
 <summary>My top languages</summary>
   
-| Rank | Languages |
-|-----:|-----------|
-|     1| VBA       |
-|     2| LUA       |
-|     3| PIC ASM   |
+| Languages |
+|----------:|
+| VBA       |
+| LUA       |
+| PIC ASM   |
 
 </details>
 <picture>
